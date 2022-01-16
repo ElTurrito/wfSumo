@@ -1,0 +1,19 @@
+AUTHOR: ElTurrito
+TEAM: Waterfall Development
+
+SETTINGS:
+  DUEL-MENU:
+    TITLE: "&c%player% wants fight!."
+
+
+
+
+ARENAS:
+
+ANNOUNCES:
+  DEFAULT:
+    - ""
+    - "&f&oPurchase &a&lVIP&b+ in our store to get more advantages."
+    - "&fstore.waterfall.com"
+    - ""
+

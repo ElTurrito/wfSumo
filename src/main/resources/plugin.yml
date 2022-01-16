@@ -1,0 +1,13 @@
+name: wfSumo
+version: '${project.version}'
+main: wfsumo.sumo.wfsumo.Sumo
+api-version: 1.18
+
+commands:
+  sumo:
+    useage: /sumo
+    description: Sumo duel someone.
+
+  sa:
+    useage: /sa
+    description: Sumo admin command.
