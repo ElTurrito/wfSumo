@@ -8,6 +8,12 @@ import java.util.Iterator;
 
 public class searchArena {
 
+    //
+    //
+    // SUMO PLUGIN BY ELTURRITO PLS IF YOU USE THIS SRC OR .JAR GIVE ME CREDITS
+    // THANKS!.
+    //
+
     public static void search() {
         Iterator var1 = Sumo.arenaStatus.keySet().iterator();
 

@@ -15,6 +15,12 @@ import wfsumo.sumo.wfsumo.utils.CC;
 
 public class sumoListener implements Listener {
 
+    //
+    //
+    // SUMO PLUGIN BY ELTURRITO PLS IF YOU USE THIS SRC OR .JAR GIVE ME CREDITS
+    // THANKS!.
+    //
+
     private Plugin plugin = Sumo.getInstance();
     private String arena;
 

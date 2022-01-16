@@ -17,6 +17,14 @@ import wfsumo.sumo.wfsumo.utils.InventoryCreator;
 
 public class acceptMenu implements Listener {
 
+
+    //
+    //
+    // SUMO PLUGIN BY ELTURRITO PLS IF YOU USE THIS SRC OR .JAR GIVE ME CREDITS
+    // THANKS!.
+    //
+
+
     public static void openAcceptMenu(Player j, Player sentFrom) {
         String title = Sumo.getInstance().configFile.getString("SETTINGS.DUEL-MENU.TITLE");
         Inventory inv = InventoryCreator.createInventory(title, 3);

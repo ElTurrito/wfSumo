@@ -16,6 +16,14 @@ import wfsumo.sumo.wfsumo.sumoUtils.searchArena;
 import wfsumo.sumo.wfsumo.utils.CC;
 
 public class Commands extends CommandExecute implements Listener, CommandExecutor {
+
+    //
+    //
+    // SUMO PLUGIN BY ELTURRITO PLS IF YOU USE THIS SRC OR .JAR GIVE ME CREDITS
+    // THANKS!.
+    //
+
+
     private Plugin plugin = Sumo.getInstance();
     public String cmd1 = "sumo";
     public String cmd2 = "sa";

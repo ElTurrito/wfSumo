@@ -13,6 +13,12 @@ import java.util.stream.Collectors;
 public class YamlDoc extends YamlConfiguration {
 
 
+    //
+    //
+    // SUMO PLUGIN BY ELTURRITO PLS IF YOU USE THIS SRC OR .JAR GIVE ME CREDITS
+    // THANKS!.
+    //
+
     private File file;
 
     public YamlDoc(String name) throws RuntimeException {

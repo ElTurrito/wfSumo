@@ -11,6 +11,12 @@ import wfsumo.sumo.wfsumo.utils.CC;
 
 public class startGame {
 
+    //
+    //
+    // SUMO PLUGIN BY ELTURRITO PLS IF YOU USE THIS SRC OR .JAR GIVE ME CREDITS
+    // THANKS!.
+    //
+
     private static Plugin plugin = Sumo.getInstance();
     public static String freeArena;
 

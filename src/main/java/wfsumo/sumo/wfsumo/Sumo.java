@@ -21,6 +21,11 @@ import java.util.Map;
 @Setter
 public  class Sumo extends JavaPlugin {
 
+    //
+    //
+    // SUMO PLUGIN BY ELTURRITO PLS IF YOU USE THIS SRC OR .JAR GIVE ME CREDITS
+    // THANKS!.
+    //
     @Getter public YamlDoc configFile;
     @Getter public static Sumo instance;
 

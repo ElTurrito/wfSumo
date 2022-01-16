@@ -8,6 +8,12 @@ import wfsumo.sumo.wfsumo.Sumo;
 
 public class CC {
 
+    //
+    //
+    // SUMO PLUGIN BY ELTURRITO PLS IF YOU USE THIS SRC OR .JAR GIVE ME CREDITS
+    // THANKS!.
+    //
+
     public static String translate(String cc) {
        return ChatColor.translateAlternateColorCodes('&', cc);
     }
